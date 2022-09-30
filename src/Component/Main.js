@@ -1,5 +1,5 @@
 import React from "react";
-import { ReactDOM } from "react";
+//import { ReactDOM } from "react";
 
 export default function Main() {
     function handleClick() {
@@ -39,11 +39,11 @@ export default function Main() {
                 <strong>   Does that mean am againt women shipping in to other careers ? </strong><br />
                 No not at all
                 but in our morden time no matter the career one is into , it is good to
-                be knowledge in Tech .
+                be knowledgeable in Tech .
             </p>
             <p>
                 <span> Examples </span> of workshops / programmes for women <br />
-                lulugreg: <a href="#">lulugreg</a> <br/>
+                lulugreg: <a href="/">lulugreg</a> <br/>
                 Shecodes: <a href="https://www.shecodes.io">visit shecodes workshops</a>
             </p>
             <br />
@@ -52,7 +52,7 @@ export default function Main() {
             </button>
             <br /><span> Examples </span> of workshops / programmes for women <br />
             :
-            <a href="#"> visit zuri</a> <br/>
+            <a href="/"> visit zuri</a> <br/>
             shecodes Africa
 
 
